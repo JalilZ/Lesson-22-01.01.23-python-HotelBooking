@@ -1,0 +1,386 @@
+[
+    {
+        "Room ID": "1001",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "24"
+    },
+    {
+        "Room ID": "1002",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "96"
+    },
+    {
+        "Room ID": "1003",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1004",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "2",
+        "Room Type": "Basic",
+        "Price": "48"
+    },
+    {
+        "Room ID": "1005",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "192"
+    },
+    {
+        "Room ID": "1006",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "320"
+    },
+    {
+        "Room ID": "1007",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "24"
+    },
+    {
+        "Room ID": "1008",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "96"
+    },
+    {
+        "Room ID": "1009",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1010",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "24"
+    },
+    {
+        "Room ID": "1011",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "96"
+    },
+    {
+        "Room ID": "1012",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1013",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "24"
+    },
+    {
+        "Room ID": "1014",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "96"
+    },
+    {
+        "Room ID": "1015",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1016",
+        "Size": "30",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Basic",
+        "Price": "96"
+    },
+    {
+        "Room ID": "1017",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "192"
+    },
+    {
+        "Room ID": "1018",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "320"
+    },
+    {
+        "Room ID": "1019",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "24"
+    },
+    {
+        "Room ID": "1020",
+        "Size": "40",
+        "Capacity": "1",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "48"
+    },
+    {
+        "Room ID": "1021",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1022",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "64"
+    },
+    {
+        "Room ID": "1023",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "96"
+    },
+    {
+        "Room ID": "1024",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1025",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "2",
+        "Room Type": "Basic",
+        "Price": "48"
+    },
+    {
+        "Room ID": "1026",
+        "Size": "30",
+        "Capacity": "1",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "72"
+    },
+    {
+        "Room ID": "1027",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "320"
+    },
+    {
+        "Room ID": "1028",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Basic",
+        "Price": "128"
+    },
+    {
+        "Room ID": "1029",
+        "Size": "40",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "192"
+    },
+    {
+        "Room ID": "1030",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "320"
+    },
+    {
+        "Room ID": "1031",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Basic",
+        "Price": "80"
+    },
+    {
+        "Room ID": "1032",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Deluxe",
+        "Price": "120"
+    },
+    {
+        "Room ID": "1033",
+        "Size": "60",
+        "Capacity": "2",
+        "Number of Beds": "1",
+        "Room Type": "Suite",
+        "Price": "192"
+    },
+    {
+        "Room ID": "1034",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Basic",
+        "Price": "160"
+    },
+    {
+        "Room ID": "1035",
+        "Size": "50",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "240"
+    },
+    {
+        "Room ID": "1036",
+        "Size": "60",
+        "Capacity": "2",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "384"
+    },
+    {
+        "Room ID": "1037",
+        "Size": "50",
+        "Capacity": "3",
+        "Number of Beds": "3",
+        "Room Type": "Basic",
+        "Price": "360"
+    },
+    {
+        "Room ID": "1038",
+        "Size": "50",
+        "Capacity": "3",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "360"
+    },
+    {
+        "Room ID": "1039",
+        "Size": "60",
+        "Capacity": "3",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "576"
+    },
+    {
+        "Room ID": "1040",
+        "Size": "60",
+        "Capacity": "3",
+        "Number of Beds": "3",
+        "Room Type": "Basic",
+        "Price": "432"
+    },
+    {
+        "Room ID": "1041",
+        "Size": "75",
+        "Capacity": "3",
+        "Number of Beds": "3",
+        "Room Type": "Deluxe",
+        "Price": "810"
+    },
+    {
+        "Room ID": "1042",
+        "Size": "75",
+        "Capacity": "3",
+        "Number of Beds": "3",
+        "Room Type": "Suite",
+        "Price": "1080"
+    },
+    {
+        "Room ID": "1043",
+        "Size": "75",
+        "Capacity": "4",
+        "Number of Beds": "2",
+        "Room Type": "Basic",
+        "Price": "480"
+    },
+    {
+        "Room ID": "1044",
+        "Size": "90",
+        "Capacity": "4",
+        "Number of Beds": "2",
+        "Room Type": "Deluxe",
+        "Price": "864"
+    },
+    {
+        "Room ID": "1045",
+        "Size": "90",
+        "Capacity": "4",
+        "Number of Beds": "2",
+        "Room Type": "Suite",
+        "Price": "1152"
+    },
+    {
+        "Room ID": "1046",
+        "Size": "75",
+        "Capacity": "4",
+        "Number of Beds": "3",
+        "Room Type": "Basic",
+        "Price": "720"
+    },
+    {
+        "Room ID": "1047",
+        "Size": "90",
+        "Capacity": "4",
+        "Number of Beds": "3",
+        "Room Type": "Deluxe",
+        "Price": "1296"
+    },
+    {
+        "Room ID": "1048",
+        "Size": "90",
+        "Capacity": "4",
+        "Number of Beds": "3",
+        "Room Type": "Suite",
+        "Price": "1728"
+    }
+]
